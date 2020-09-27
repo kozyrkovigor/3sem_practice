@@ -4,20 +4,20 @@
 
 
 
-## Задание 1.1
-![Задание 1.1](https://3.downloader.disk.yandex.ru/preview/c438e72221062fbc41ad752f4d7553de668654907727c1b599ef927f512bc481/inf/fAOabWPYfbDB5sFEyMtiHTxlsgtjLxZSlVbrp1vLemnvirn04tYSx4dJzNTTc_Nh9h7OVjXf5qNNbkMfBWa2XA%3D%3D?uid=273232321&filename=frame%20%2815%29.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=273232321&tknv=v2&size=1903x888)
+### ИСР 1.1
+![](https://sun9-65.userapi.com/O3NzzAeFkV6LDgXHg4Y9OsJD4RTkiR8j9ayv6w/IRVWPuhKmhA.jpg)
 
-## Задание 1.2
-![Задание 1.2](https://3.downloader.disk.yandex.ru/preview/c438e72221062fbc41ad752f4d7553de668654907727c1b599ef927f512bc481/inf/fAOabWPYfbDB5sFEyMtiHTxlsgtjLxZSlVbrp1vLemnvirn04tYSx4dJzNTTc_Nh9h7OVjXf5qNNbkMfBWa2XA%3D%3D?uid=273232321&filename=frame%20%2815%29.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=273232321&tknv=v2&size=1903x888)
+### ИСР 1.2
+![alt tag](https://sun9-71.userapi.com/rWBHVX1KPjok2Ii6n7-k-GzXp8QG9v1k8_nb8g/bL6X-Wlo0DQ.jpg)
 
-## Задание 1.3
-![Задание 1.3](https://3.downloader.disk.yandex.ru/preview/c438e72221062fbc41ad752f4d7553de668654907727c1b599ef927f512bc481/inf/fAOabWPYfbDB5sFEyMtiHTxlsgtjLxZSlVbrp1vLemnvirn04tYSx4dJzNTTc_Nh9h7OVjXf5qNNbkMfBWa2XA%3D%3D?uid=273232321&filename=frame%20%2815%29.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=273232321&tknv=v2&size=1903x888)
+### ИСР 1.3
+![alt tag](https://sun9-39.userapi.com/jIUdzTzMa7_OC7fQ58PEZWSefT_G8jpkEZRTaA/tplOqesWrsU.jpg)
 
-## Задание 2.1
-![Задание 2.1](https://3.downloader.disk.yandex.ru/preview/c438e72221062fbc41ad752f4d7553de668654907727c1b599ef927f512bc481/inf/fAOabWPYfbDB5sFEyMtiHTxlsgtjLxZSlVbrp1vLemnvirn04tYSx4dJzNTTc_Nh9h7OVjXf5qNNbkMfBWa2XA%3D%3D?uid=273232321&filename=frame%20%2815%29.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=273232321&tknv=v2&size=1903x888)
+### ВСР 2.1 
+![alt tag](https://sun9-69.userapi.com/NxgIhV5yoTECC_06tJCJTTggUsCNtsOk2wC8wg/guInRMVg_oY.jpg)
 
-## Задание 2.2
-![Задание 2.2](https://3.downloader.disk.yandex.ru/preview/c438e72221062fbc41ad752f4d7553de668654907727c1b599ef927f512bc481/inf/fAOabWPYfbDB5sFEyMtiHTxlsgtjLxZSlVbrp1vLemnvirn04tYSx4dJzNTTc_Nh9h7OVjXf5qNNbkMfBWa2XA%3D%3D?uid=273232321&filename=frame%20%2815%29.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=273232321&tknv=v2&size=1903x888)
+### ВСР 2.2
+![alt tag](https://sun9-22.userapi.com/csSI5FixTxoUHjQhYJqbjHI3ydGps9XO7wBmDQ/TateVCDOLl4.jpg)
 
-## Задание 2.3
-![Задание 2.3](https://3.downloader.disk.yandex.ru/preview/c438e72221062fbc41ad752f4d7553de668654907727c1b599ef927f512bc481/inf/fAOabWPYfbDB5sFEyMtiHTxlsgtjLxZSlVbrp1vLemnvirn04tYSx4dJzNTTc_Nh9h7OVjXf5qNNbkMfBWa2XA%3D%3D?uid=273232321&filename=frame%20%2815%29.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=273232321&tknv=v2&size=1903x888)
+### ВСР 2.3
+![alt tag](https://sun9-56.userapi.com/4yDyuSDUHffkVep9snHwGlFabXAkUa0nhRm3AQ/Iw0BPr5sdpU.jpg)
