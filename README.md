@@ -5,7 +5,7 @@
 
 
 ### ИСР 1.1
-![alt tag](https://3.downloader.disk.yandex.ru/preview/c438e72221062fbc41ad752f4d7553de668654907727c1b599ef927f512bc481/inf/fAOabWPYfbDB5sFEyMtiHTxlsgtjLxZSlVbrp1vLemnvirn04tYSx4dJzNTTc_Nh9h7OVjXf5qNNbkMfBWa2XA%3D%3D?uid=273232321&filename=frame%20%2815%29.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=273232321&tknv=v2&size=1903x888 "Описание будет тут")​
+![](https://3.downloader.disk.yandex.ru/preview/c438e72221062fbc41ad752f4d7553de668654907727c1b599ef927f512bc481/inf/fAOabWPYfbDB5sFEyMtiHTxlsgtjLxZSlVbrp1vLemnvirn04tYSx4dJzNTTc_Nh9h7OVjXf5qNNbkMfBWa2XA%3D%3D?uid=273232321&filename=frame%20%2815%29.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=273232321&tknv=v2&size=1903x888 "Описание будет тут")
 
 ### ИСР 1.2
 ![alt tag](https://3.downloader.disk.yandex.ru/preview/2b0d216b32f27d8dfc98c48ffae288c7c5899d89cac9ede6b1b138702199d763/inf/jF7waG_bNiiPA0qJza0hRY5czPb2HSoxV5DmvcxngT-LMg2CwuC0h2VOb_kfHqfltJ7KfVmgH-yBbZGjlqZ5aQ%3D%3D?uid=273232321&filename=frame%20%2816%29.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=273232321&tknv=v2&size=1903x888 "Описание будет тут")​
