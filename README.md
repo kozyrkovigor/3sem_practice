@@ -5,19 +5,19 @@
 
 
 ## Задание 1.1
-![Задание 1.1](http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2FDanceDaemon%2F3sem%2Fblob%2Fmaster%2F%25D0%25A1%25D0%25B0%25D0%25B2%25D0%25BE%25D1%2581%25D1%2582%25D0%25B8%25D0%25BD%2520%25D0%2595.%25D0%2590.%2520%25D0%25B7%25D0%25B0%25D0%25B4%25D0%25B0%25D0%25BD%25D0%25B8%25D0%25B5%25201.1.pdf&4&0)
+![Задание 1.1](https://3.downloader.disk.yandex.ru/preview/c438e72221062fbc41ad752f4d7553de668654907727c1b599ef927f512bc481/inf/fAOabWPYfbDB5sFEyMtiHTxlsgtjLxZSlVbrp1vLemnvirn04tYSx4dJzNTTc_Nh9h7OVjXf5qNNbkMfBWa2XA%3D%3D?uid=273232321&filename=frame%20%2815%29.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=273232321&tknv=v2&size=1903x888)
 
 ## Задание 1.2
-![Задание 1.2](http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2FDanceDaemon%2F3sem%2Fblob%2Fmaster%2F%25D0%25A1%25D0%25B0%25D0%25B2%25D0%25BE%25D1%2581%25D1%2582%25D0%25B8%25D0%25BD%2520%25D0%2595.%25D0%2590.%2520%25D0%25B7%25D0%25B0%25D0%25B4%25D0%25B0%25D0%25BD%25D0%25B8%25D0%25B5%25201.2.pdf&4&0)
+![Задание 1.2]()
 
 ## Задание 1.3
-![Задание 1.3](http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2FDanceDaemon%2F3sem%2Fblob%2Fmaster%2F%25D0%25A1%25D0%25B0%25D0%25B2%25D0%25BE%25D1%2581%25D1%2582%25D0%25B8%25D0%25BD%2520%25D0%2595.%25D0%2590.%2520%25D0%25B7%25D0%25B0%25D0%25B4%25D0%25B0%25D0%25BD%25D0%25B8%25D0%25B5%25201.3.md&4&0)
+![Задание 1.3]()
 
 ## Задание 2.1
-![Задание 2.1](http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2FDanceDaemon%2F3sem%2Fblob%2Fmaster%2F%25D0%25A1%25D0%25B0%25D0%25B2%25D0%25BE%25D1%2581%25D1%2582%25D0%25B8%25D0%25BD%2520%25D0%2595.%25D0%2590.%2520%25D0%25B7%25D0%25B0%25D0%25B4%25D0%25B0%25D0%25BD%25D0%25B8%25D0%25B5%25202.1.pdf&4&0)
+![Задание 2.1]()
 
 ## Задание 2.2
-![Задание 2.2](http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2FDanceDaemon%2F3sem%2Fblob%2Fmaster%2F%25D0%25A1%25D0%25B0%25D0%25B2%25D0%25BE%25D1%2581%25D1%2582%25D0%25B8%25D0%25BD%2520%25D0%2595.%25D0%2590.%2520%25D0%25B7%25D0%25B0%25D0%25B4%25D0%25B0%25D0%25BD%25D0%25B8%25D0%25B5%25202.2.pdf&4&0)
+![Задание 2.2]()
 
 ## Задание 2.3
-![Задание 2.3](http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2FDanceDaemon%2F3sem%2Fblob%2Fmaster%2F%25D0%25A1%25D0%25B0%25D0%25B2%25D0%25BE%25D1%2581%25D1%2582%25D0%25B8%25D0%25BD%2520%25D0%2595.%25D0%2590.%2520%25D0%25B7%25D0%25B0%25D0%25B4%25D0%25B0%25D0%25BD%25D0%25B8%25D0%25B5%25202.3.pdf&4&0)
+![Задание 2.3]()
